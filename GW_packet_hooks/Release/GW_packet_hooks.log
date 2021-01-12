@@ -1,0 +1,7 @@
+﻿  Generating code
+C:\Users\Commando\source\repos\GW_packet_hooks\GW_packet_hooks\dllmain.cpp(57): warning C4731: 'trampoline_func': frame pointer register 'ebp' modified by inline assembly code
+  1 of 20 functions ( 5.0%) were compiled, the rest were copied from previous compilation.
+  Finished generating code
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  GW_packet_hooks.vcxproj -> C:\Users\Commando\source\repos\GW_packet_hooks\Release\GW_packet_hooks.dll
